@@ -1,0 +1,59 @@
+article{
+    background-color: #ffe4c4;
+    margin: 40px 100px;
+    padding: 5px 20px;
+}
+h1 { font-family: "Simonetta", "Trebuchet MS", Arial, sans-serif; 
+    font-size: 2.0em;
+     background-color: rgb(49, 18, 42);
+     color: white;
+     text-shadow: 1px 1px;
+    }
+p,h2{ position: relative;
+    margin: 20px 20px;
+    text-align: justify;
+    padding: 5px 20px;
+    font-family:'Times New Roman', Times, serif;
+    font: size 1.6em;
+    letter-spacing: .1rem;
+}
+h3 { font-family: "Trebuchet MS", Verdana, Arial, sans-serif; 
+    font-size: large;
+   }
+figure{
+    padding: 10px;
+    border: 4px;
+    float:left;
+    margin-top:20px;
+}
+figcaption {
+    background-color:  rgb(49, 18, 42);
+    color: white;
+    font-style: italic;
+    padding: 2px;
+    text-align: center;
+  }
+button{
+    background-color:  rgb(75, 28, 64);
+    color: #f0fff0;
+    text-align: center;
+    display:inline-block;
+    padding: 10px 15px;
+    margin-left: 950px;
+    border-radius: 10px;
+}
+button:hover{
+    background-color: palevioletred;
+    color: black;
+}
+
+footer{ padding: 20px;
+     background-color: rgb(49, 18, 42);;
+    text-align: left;
+    color: #ffffff;
+position: relative;
+}
+.footer-img{
+    padding: 10px;
+}
+
